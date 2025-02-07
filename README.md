@@ -1,6 +1,6 @@
-# PyTorch Implementation of: Continuity-Preserving Autoencoders for Learning Continuous Latent Dynamical Models from Images
+# PyTorch Implementation of: Continuity-Preserving Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images
 
-This repository contains code to reproduce the results as presented in the paper for review purposes only.
+This repository contains code to reproduce the results as presented in the paper: Continuity-Preserving Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images.
 
 ## Requirements 
 * `environment.yml`
@@ -43,4 +43,8 @@ To start training, run:
 sh TrainDP.sh
 sh TrainSS.sh
 ```
+
+## Reference
+
+Aiqing Zhu, Yuting Pan, Qianxiao Li. Continuity-Preserving Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images. The Thirteenth International Conference on Learning Representations (ICLR 2025).
  
