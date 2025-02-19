@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 class CirData(ln.Data):
-    '''Images of two-body.
+    '''Images.
     '''
     def __init__(self, h, train_num, test_num, size=50):
         super(CirData, self).__init__()
